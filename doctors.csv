@@ -1,0 +1,51 @@
+﻿doctor_id,doctor_name,specialization,experience_years,consultation_fee
+1,Luis Olson,Pulmonology,2,1377
+2,Daniel Lopez,Neurology,10,686
+3,Christine Simmons,Cardiology,24,1977
+4,Gabriel Friedman,Cardiology,14,1523
+5,Dalton Garza,Dermatology,25,564
+6,Courtney Romero,Orthopedics,20,830
+7,Samantha Fitzpatrick,Orthopedics,7,1705
+8,James Ross,Pediatrics,18,1470
+9,Gabriel Wilson,Gastroenterology,15,1678
+10,Anthony Williams,Orthopedics,11,1045
+11,Vickie Warren,Gastroenterology,10,719
+12,Russell Dougherty,Dermatology,1,1758
+13,Jessica Walker,Pediatrics,22,1705
+14,Robert Humphrey,General Medicine,22,707
+15,Justin Garcia,Pulmonology,15,706
+16,Anne Kelly,Pulmonology,12,1771
+17,Angela Johnson,General Medicine,14,716
+18,Jennifer Sellers,Oncology,3,1154
+19,Dennis Glass,Dermatology,4,1504
+20,Crystal Hayden,Gastroenterology,10,1810
+21,Michelle Wilson,Pulmonology,16,1196
+22,Brian Miller,Orthopedics,22,1606
+23,Patrick Nguyen,Pulmonology,23,703
+24,Joseph Fox,Cardiology,24,1376
+25,Kaitlin Bradshaw,Neurology,17,1607
+26,David Gomez,Pulmonology,22,1116
+27,Matthew Diaz,Pediatrics,17,1149
+28,Jacob Hernandez,Orthopedics,9,1034
+29,Shane Palmer,Dermatology,2,822
+30,Justin Reyes,Gastroenterology,9,1154
+31,Emily Johnson,General Medicine,18,662
+32,Frank Smith,Pulmonology,14,1434
+33,Cody Perez,Oncology,25,820
+34,Michael Hawkins,General Medicine,20,1665
+35,James Campos,Cardiology,20,623
+36,Julie Brown,Pulmonology,16,723
+37,Steven Holmes,Orthopedics,1,1347
+38,Kimberly Rivera,Orthopedics,25,1921
+39,Pamela Mitchell,Neurology,21,1847
+40,Dana Nelson,Pediatrics,16,845
+41,Lisa Bush,Orthopedics,4,964
+42,Kimberly Atkins,Pulmonology,17,1190
+43,Richard Carter,General Medicine,1,1645
+44,Sherry King,Dermatology,17,1351
+45,Sydney Martinez,Pulmonology,6,1208
+46,Andrew Gill,Gastroenterology,16,1405
+47,Jared Torres,Cardiology,11,733
+48,Nicole Booker DDS,Neurology,15,1268
+49,John Jackson,Gastroenterology,1,1410
+50,Michael Phillips,Gastroenterology,16,1794
