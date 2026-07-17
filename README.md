@@ -41,15 +41,6 @@ Tables:
 
 Total Tables: **6**
 
----
-
-## Database Schema
-
-(Add your ER Diagram here)
-
-Example:
-
-![ER Diagram](ER_Diagram/Hospital_ER_Diagram.png)
 
 ---
 
